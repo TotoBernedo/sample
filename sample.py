@@ -6,6 +6,7 @@ print(f"Python Encoding: {sys.getdefaultencoding().upper()}")
 
 print ('\n')
 print ('\n')
+print ('\n')
 
 # 1 line: Output
 
